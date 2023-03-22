@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.zip
+Gary/
+__pycache__/
+OUTPUT_MODEL/
+sampled_audio4ft*
+**/build/
+pretrained_models/
